@@ -10,7 +10,4 @@ e^{i\theta}G_{n+(N+1),\xi\sigma}+e^{-i\theta}G_{n+(N-1),\xi\sigma}\right) + \fra
 
 
 
-a^2+b^2=c^2
-
-
 
