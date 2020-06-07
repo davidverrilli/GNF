@@ -7,7 +7,7 @@ e^{i\theta}G_{n+(N+1),\xi\sigma}+e^{-i\theta}G_{n+(N-1),\xi\sigma}\right) + \fra
 \right)`
 
 
-![formula](https://render.githubusercontent.com/render/math?math=a^2%20-%20b^2=c^2)
+![formula](https://render.githubusercontent.com/render/math?math=a^2%20-%20b^2%2B=c^2)
 
 
 
